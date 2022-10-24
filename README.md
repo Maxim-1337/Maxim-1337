@@ -1,6 +1,6 @@
 
 <h2>Hi, Ich bin Maxim</h2>
-<p><em>Profi FiveM dev kappa</br>
+<p><em>Profi Dev kappa</br>
 </em></p>
 
 **Skills:**  
